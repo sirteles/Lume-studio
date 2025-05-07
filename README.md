@@ -1,4 +1,3 @@
-
 # Lume Studio - Site Atualizado
 
 ## Descrição
@@ -86,6 +85,6 @@ Este site foi projetado para ser visualmente impactante e funcional, oferecendo 
 4. Preencha o formulário de contato para entrar em contato com a Lume Studio.
 
 Para mais informações ou dúvidas, entre em contato conosco pelo WhatsApp ou e-mail.
-"""
+
 
 
