@@ -25,14 +25,6 @@ Site de apresentação institucional com foco em:
 
 ## 🧱 Estrutura do Site
 
-📁 lume_site/
-├── index.html
-├── favicon.ico
-├── images/
-│ └── logo_lume_studio.png
-├── style.css (se aplicável)
-└── README.md
-
 ## 📂 Seções
 
 ### 1. Início
