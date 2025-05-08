@@ -1,7 +1,4 @@
-# Caminho onde o novo README.md será salvo
-readme_path = os.path.join(updated_site_dir, "README.md")
 
-# Conteúdo completo atualizado do README
 readme_content = """# 🌟 Lume Studio - Site Institucional
 
 Este repositório contém o código-fonte do site da **Lume Studio**, uma produtora audiovisual especializada em conteúdo criativo para redes sociais.
