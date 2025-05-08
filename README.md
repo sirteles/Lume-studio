@@ -1,5 +1,5 @@
 
-readme_content = """# 🌟 Lume Studio - Site Institucional
+
 
 Este repositório contém o código-fonte do site da **Lume Studio**, uma produtora audiovisual especializada em conteúdo criativo para redes sociais.
 
